@@ -16,9 +16,9 @@ This is a simple web application that allows users to perform arithmetic calcula
 
 2. Create and activate virtual environment:
 
-      ```bash
+   ```bash
    python3 -m venv venv
-   . venv/bin/activate (for Linux)
+   .venv/bin/activate (for Linux)
    venv\Scripts\activate (for Windows)
 
 3. Install the required dependencies using pip:
@@ -43,6 +43,8 @@ This project includes unit tests to ensure the correctness of the application's 
 
       ```bash
       python -m unittest tests/test_calculator.py
+   
+Or just run the tests from the test_calculator.py file located in the tests directory.
    
 ## License
 
