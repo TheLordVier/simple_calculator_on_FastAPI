@@ -1,0 +1,58 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development
+.idea/
+.vscode/
+*.sqlite
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignore environment-specific settings
+*.env
+*.env.*
+*.env.local
+*.env.development
+*.env.test
+*.env.production
+
+# Ignore development server
+.pytest_cache/
+instance/
+
+# Ignore migrations
+.mypy_cache/
+db.sqlite3
+*.swp
