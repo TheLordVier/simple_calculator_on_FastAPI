@@ -49,6 +49,3 @@ Or just run the tests from the test_calculator.py file located in the tests dire
 ## License
 
 This project is licensed under the MIT License.
-   
-
-
