@@ -7,6 +7,13 @@ This is a simple web application that allows users to perform arithmetic calcula
 - Input an arithmetic expression and receive the result or an error message.
 - Supports addition, subtraction, multiplication, and division operations.
 
+## Technologies used in the project
+
+- FastAPI
+- Jinja2
+- unittest
+- TestClient
+
 ## Installation
 
 1. Clone this repository to your local machine:
