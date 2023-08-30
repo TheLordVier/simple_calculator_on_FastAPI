@@ -6,7 +6,7 @@ import os
 app = FastAPI()
 
 # Create a Jinja2Templates instance with the templates directory
-templates = Jinja2Templates(directory=os.path.join(os.getcwd(), "templates"))
+templates = Jinja2Templates(directory=os.path.join(os.path.dirname(os.path.abspath(__file__)), "templates"))
 
 
 @app.get("/", response_class=HTMLResponse)
