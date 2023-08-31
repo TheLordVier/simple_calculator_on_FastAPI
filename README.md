@@ -13,6 +13,7 @@ This is a simple web application that allows users to perform arithmetic calcula
 - Jinja2
 - unittest
 - TestClient
+- HTML
 
 ## Installation
 
