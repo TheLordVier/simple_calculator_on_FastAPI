@@ -1,6 +1,6 @@
 # Simple Calculator Web App using FastAPI
 
-This is a simple web application that allows users to perform arithmetic calculations through a web interface. 
+This is a simple web application that allows users to perform arithmetic calculations through a web interface./ 
 The application is built using FastAPI and Jinja2Templates for rendering HTML templates.
 
 ## Features
